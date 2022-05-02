@@ -45,6 +45,6 @@ if __name__=="__main__":
         cwin = checkWin(xState, zState)
         if(cwin !=-1):
             print("Match over")
+            print("this is it")
             break
-
         turn = 1- turn
