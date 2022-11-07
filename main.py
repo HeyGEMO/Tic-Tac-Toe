@@ -47,4 +47,7 @@ if __name__=="__main__":
             print("Match over")
             print("this is it")
             break
-        turn = 1- turn
+
+           turn = 1- turn
+        
+        //Nitesh
